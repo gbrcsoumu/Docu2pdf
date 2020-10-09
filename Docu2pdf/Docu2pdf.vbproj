@@ -57,7 +57,7 @@
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Net.Http" />
     <Reference Include="xdwapiwn">
-      <HintPath>bin\xdwapiwn.dll</HintPath>
+      <HintPath>.\xdwapiwn.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
